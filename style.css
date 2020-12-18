@@ -1,0 +1,8 @@
+.container-fluid {
+    color: yellow;
+    /* This style code is not working for some reason */
+}
+.card-body {
+    color: rgb(20, 202, 178);
+    font-size: 40px;
+}
