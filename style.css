@@ -6,3 +6,11 @@
     color: rgb(20, 202, 178);
     font-size: 40px;
 }
+.img-fluid {
+    width: 100%;
+    height: auto;
+    padding: 5%;
+}
+p {
+    padding: 5%;
+}
