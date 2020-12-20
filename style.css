@@ -1,9 +1,6 @@
-.container-fluid {
-    color: yellow;
-    /* This style code is not working for some reason */
-}
 .card-body {
-    color: rgb(20, 202, 178);
+    background-color:black;
+    color: white;
     font-size: 40px;
 }
 .img-fluid {
@@ -13,4 +10,12 @@
 }
 p {
     padding: 5%;
+    color: black;
+    font-size: large;
+}
+body {
+    background-image: url("https://thumbs.dreamstime.com/b/white-wood-wall-texture-background-panels-graphic-resources-149622903.jpg");
+   }
+strong {
+    color: black;
 }
