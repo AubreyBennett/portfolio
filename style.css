@@ -3,19 +3,50 @@
     color: white;
     font-size: 40px;
 }
+
 .img-fluid {
     width: 100%;
     height: auto;
     padding: 5%;
 }
+
 p {
     padding: 5%;
     color: black;
-    font-size: large;
+    font-size: x-large;
 }
+
 body {
     background-image: url("https://thumbs.dreamstime.com/b/white-wood-wall-texture-background-panels-graphic-resources-149622903.jpg");
    }
+
 strong {
     color: black;
 }
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Linkedin */
+  .fa-linkedin {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
