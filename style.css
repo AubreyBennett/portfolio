@@ -50,8 +50,28 @@ strong {
     background: #55ACEE;
     color: white;
   }
-
+  /* Github */
   .fa-github {
     background: black;
     color: white;
+  }
+
+  .card {
+    margin-bottom: 50px;
+  }
+
+  .resume {
+    padding: 5%;
+    color: black;
+    font-size: x-large;
+  }
+
+  .card-link {
+    font-size: 50px;
+    display: block;
+    text-align: center;
+  }
+
+  .card-title {
+    font-size: 50px;
   }
